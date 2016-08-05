@@ -1,2 +1,3 @@
 # SlideHeaderView
 一个可以滑动放大的headerView
+具体效果可以下载demo查看
